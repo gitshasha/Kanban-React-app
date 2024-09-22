@@ -81,7 +81,7 @@ A Kanban board application built using **React**, **Dnd Kit** for drag-and-drop 
 
 ## Demo
 
-**[Live Demo](#)** - https://kanban-react-fkiub9glf-gitshashas-projects.vercel.app
+**[Live Demo](#)** - https://kanban-react-app-blush.vercel.app
 
 ## Screenshots
 -Dashboard
