@@ -81,11 +81,10 @@ A Kanban board application built using **React**, **Dnd Kit** for drag-and-drop 
 
 ## Demo
 
-**[Live Demo](#)** - (Add the link to your live demo once deployed)
+**[Code](#)** - https://github.com/gitshasha/Kanban-React-app
 
 ## Screenshots
 
-*(Add some screenshots of your project here)*
 
 ## Technologies Used
 
